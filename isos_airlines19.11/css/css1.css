@@ -1,0 +1,87 @@
+﻿body {
+    background-color: #d5d5d5;
+    font-family: 'Trebuchet MS',Arial,'Comic Sans MS';
+}
+
+* {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    margin: 9px 0 0 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 1000px;
+    height: 1300px;
+    margin: 0 auto;
+}
+
+header {
+    margin-top: 7px;
+    width: 100%;
+    float: left;
+    height: 60px;
+    background-color: white;
+}
+
+    header .logo {
+        float: left;
+        margin-top: 1px;
+        width: 180px;
+        height: 60px;
+       
+        background-image: url('../images/isos2.png');
+        /*
+               background-image: url('images/Untitled 4.png');
+           */
+        background-size: cover;
+    }
+
+    header nav {
+        width: 820px;
+        height: 60px;
+        float: left;
+        line-height: 50px;
+        text-align: center;
+    }
+
+
+        header nav ul {
+            list-style: none;
+        }
+
+            header nav ul li {
+                float: left;
+                margin: 0 10px;
+                color: #555;
+                height: 50px;
+                width: 110px;
+            }
+
+                header nav ul li.members {
+                    width: 190px;
+                    position: relative;
+                    margin-left: 20px;
+                    height: 181px;
+                }
+
+                    header nav ul li .members .MembersOperation {
+                        display: none;
+                   
+                    }
+
+
+
+
+
+
+
+a {
+    text-decoration: none;
+    color: #555;
+}
+
+    a:hover {
+        color: aquamarine;
+    }

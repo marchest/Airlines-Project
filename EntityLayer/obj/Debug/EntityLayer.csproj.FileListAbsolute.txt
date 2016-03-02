@@ -1,0 +1,8 @@
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\EntityLayer\obj\Debug\EntityLayer.pdb

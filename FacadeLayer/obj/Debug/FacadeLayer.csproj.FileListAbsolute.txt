@@ -1,0 +1,9 @@
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\bin\Debug\EntityFramework.dll
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\bin\Debug\EntityFramework.xml
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\obj\Debug\FacadeLayer.csprojResolveAssemblyReference.cache
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\Kaya\documents\visual studio 2015\Projects\isos_airlines19.11\FacadeLayer\obj\Debug\FacadeLayer.pdb

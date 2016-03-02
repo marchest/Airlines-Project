@@ -1,0 +1,11 @@
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Kaya\Documents\Visual Studio 2015\Projects\isos_airlines19.11\BusinessLayer\obj\Debug\BusinessLayer.pdb

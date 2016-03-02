@@ -1,0 +1,145 @@
+﻿body {
+    background-color: #d5d5d5;
+    font-family: 'Trebuchet MS',Arial,'Comic Sans MS';
+}
+
+* {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    margin: 9px 0 0 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 1000px;
+    height: 1300px;
+    margin: 0 auto;
+}
+.Bilet_Al {
+    color: #555;
+    float: left;
+    width: 421px;
+    height: 600px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+    .Bilet_Al .ust {
+        float: left;
+        margin-top: 3px;
+        width: 100%;
+        height: 25px;
+        text-align: center;
+        text-decoration-color: #555;
+        border-bottom: 1px solid aquamarine;
+    }
+
+
+    .Bilet_Al .alt {
+        text-decoration-color: #555;
+        height: 600px;
+        width: 100%;
+    }
+   .wrapper.Bilet_Al .Ara{
+        float:right;
+    }
+.deneme {
+    margin-top: 10px;
+    float: left;
+    width: 200px;
+     height: 400px;
+}
+
+
+.Reklam {
+    float: right;
+    width: 530px;
+    height: 300px;
+    margin-top:auto;
+    background-color: white;
+}
+
+
+.Bilet_Al .alt .From {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+}
+
+
+.Bilet_Al .alt .To {
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.Bilet_Al .alt .rota .Gidiş_Dönüş_RadioBtn {
+    height: auto;
+    width: 100%;
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.Bilet_Al .alt .rota .Label1 {
+    width: 40px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.Bilet_Al .alt .rota .TekYon_RadioBtn {
+    float: left;
+    height: auto;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.Bilet_Al .alt .rota .Label2 {
+    width: auto;
+    height: 20px;
+    float: left;
+}
+
+.Bilet_Al .alt .rota {
+    border-bottom: 1px dotted aquamarine;
+    margin-top: 3px;
+}
+
+.Bilet_Al .alt .tarih {
+    height: auto;
+    width: 420px;
+}
+.Bilet_Al .alt .tarih .sol
+{
+    margin-left:3px;
+    float:left;
+    margin-top:4px;
+     width:auto;
+    height:auto;
+}
+.Bilet_Al .alt .tarih .sag{
+    float:right;
+    margin-top:4px;
+    width:auto;
+    height:auto;
+}
+   
+
+.Reklam {
+    float: right;
+    width: 530px;
+    height: 300px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+
+
+.Bilet_işlemlerim {
+    float: right;
+    width: 530px;
+    height: 361px;
+    background-color: white;
+    margin-top: 4px;
+}
